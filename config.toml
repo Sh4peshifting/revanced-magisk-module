@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+arch = "arm64-v8a"
 build-mode = "module"
 
 [Reddit]
@@ -87,7 +88,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 arch = "arm64-v8a"
 
 [Spotify]
-# enabled = false
+enabled = false
 build-mode = "module"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
